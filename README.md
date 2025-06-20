@@ -1,6 +1,6 @@
 # Digital-Multimeter
 A full-featured Digital Multimeter using ATmega-16: measures voltage, current, resistance
-# 🔧 Digital Multimeter (DMM) – Embedded Systems Project
+#  Digital Multimeter (DMM) – Embedded Systems Project
 
 >  Duration: Feb 2024 – Present  
 >  Final-Year Project | Faculty of Engineering, Cairo University
@@ -11,9 +11,9 @@ A full-featured Digital Multimeter using ATmega-16: measures voltage, current, r
 
 A complete **Digital Multimeter (DMM)** built using **ATmega-16**, capable of measuring:
 
-- ✅ AC & DC Voltage
-- ✅ Current (Amps)
-- ✅ Resistance (Ohms)
+-  AC & DC Voltage
+-  Current (Amps)
+-  Resistance (Ohms)
 
 The system uses analog-to-digital conversion with signal conditioning and switching to select measurement modes.
 
