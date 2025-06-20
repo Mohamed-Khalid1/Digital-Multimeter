@@ -2,12 +2,12 @@
 A full-featured Digital Multimeter using ATmega-16: measures voltage, current, resistance
 # 🔧 Digital Multimeter (DMM) – Embedded Systems Project
 
-> 📅 Duration: Feb 2024 – Present  
-> 🎓 Final-Year Project | Faculty of Engineering, Cairo University
+>  Duration: Feb 2024 – Present  
+>  Final-Year Project | Faculty of Engineering, Cairo University
 
 ---
 
-## 📌 Overview
+##  Overview
 
 A complete **Digital Multimeter (DMM)** built using **ATmega-16**, capable of measuring:
 
@@ -19,7 +19,7 @@ The system uses analog-to-digital conversion with signal conditioning and switch
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - **Microcontroller**: ATmega-16
 - **Language**: Embedded C
@@ -29,13 +29,13 @@ The system uses analog-to-digital conversion with signal conditioning and switch
 
 ---
 
-## 📷 Real Hardware Setup
+##  Real Hardware Setup
 
 ![DMM Hardware](images/dmm_real_setup.jpg)
 
 ---
 
-## 📐 Circuit Design
+##  Circuit Design
 
 The system is divided into several circuits:
 
@@ -45,14 +45,14 @@ The system is divided into several circuits:
 - AC-to-DC Conversion
 - Power Supply
 
-📂 You can find all schematics in the `/schematics/` folder.
+ You can find all schematics in the `/schematics/` folder.
 
-- 📄 [Circuit Diagram PDF](schematics/Circuit_Diagram.pdf)
-- 🗂 [Proteus Simulation File](schematics/Embedded_Project.pdsprj)
+-  [Circuit Diagram PDF](schematics/Circuit_Diagram.pdf)
+-  [Proteus Simulation File](schematics/Embedded_Project.pdsprj)
 
 ---
 
-## 🧪 Features
+##  Features
 
 - Accurate measurements displayed on LCD
 - Integrated mode-switching logic
@@ -61,7 +61,7 @@ The system is divided into several circuits:
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```bash
 /firmware/       → Embedded C source code (coming soon)
