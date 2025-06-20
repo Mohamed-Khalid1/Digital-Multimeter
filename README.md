@@ -24,7 +24,7 @@ The system uses analog-to-digital conversion with signal conditioning and switch
 - **Microcontroller**: ATmega-16
 - **Language**: Embedded C
 - **Simulation**: Proteus
-- **PCB Design**: (Assumed Eagle/Altium)
+- **PCB Design**: EasyEDA
 - **Tools**: Multimeter, Oscilloscope, Breadboard, LCD, Potentiometer
 
 ---
@@ -68,3 +68,8 @@ The system is divided into several circuits:
 /schematics/     → Circuit diagram + Proteus project
 /images/         → Project photos
 README.md
+
+## 📬 Contact
+
+📧 mohamed.khalid9099@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-khalid-602150370)
